@@ -1,3 +1,5 @@
+"use strict";
+
 // 1) Crear un objeto con 5 propiedades
 const pokemon = {
     nombre: 'Pikachu',
